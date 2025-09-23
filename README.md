@@ -168,7 +168,7 @@ As an accomplished Full Stack Engineer, I specialize in TypeScript, React, Node.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TechFourgeBuild&style=flat-square&color=blue" alt="Profile Views" />
 </div>
-
+&nbsp;
 **Open to collaborations, freelance, or just a chat about code! ☕**
 
 ---
