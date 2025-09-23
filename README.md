@@ -13,31 +13,6 @@
 
 </div>
 
-## 🛠️ Tech Arsenal
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Exploring:** System Design 📐 | Cloud Architecture ☁️ | DevOps Mastery
-
-
-- 🌱 I’m currently learning **AWS and Devops best practices with System Design**
-
-- 👯 I’m looking to collaborate on **Software Development using TS**
-
-- 📫 How to reach me **skddeveloper143@gmail.com**
-
-## 💼 Professional Snapshot
-
-As an accomplished Full Stack Engineer, I specialize in TypeScript, React, Node.js, and Supabase, delivering robust, scalable solutions. Deepening expertise in AWS and system design, I craft secure, user-centric applications with precision. My relentless drive for innovation fuels cutting-edge development and continuous learning.
-
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
-
-
 ## 🛠️ Languages and Tools
 &nbsp;
 <div align="center" style="margin-top: 20px; margin-bottom: 50px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
@@ -137,6 +112,31 @@ As an accomplished Full Stack Engineer, I specialize in TypeScript, React, Node.
 </div>
 
 &nbsp;
+
+## 🛠️ Tech Arsenal
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Exploring:** System Design 📐 | Cloud Architecture ☁️ | DevOps Mastery
+
+
+- 🌱 I’m currently learning **AWS and Devops best practices with System Design**
+
+- 👯 I’m looking to collaborate on **Software Development using TS**
+
+- 📫 How to reach me **skddeveloper143@gmail.com**
+
+## 💼 Professional Snapshot
+
+As an accomplished Full Stack Engineer, I specialize in TypeScript, React, Node.js, and Supabase, delivering robust, scalable solutions. Deepening expertise in AWS and system design, I craft secure, user-centric applications with precision. My relentless drive for innovation fuels cutting-edge development and continuous learning.
+
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+
 
 ## 🔥 What Fuels My Code
 
