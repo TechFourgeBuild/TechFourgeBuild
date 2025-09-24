@@ -13,86 +13,86 @@
 
 </div>
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and Tools I use
 &nbsp;
-<div align="center" style="margin-top: 20px; margin-bottom: 50px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
+<div align="center" style="margin-top: 20px;; margin-bottom: 50px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
 
 <!-- Frontend Frameworks -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
 </a>
 
 <!-- Backend & Databases -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
 </a>
 
 <!-- Cloud & DevOps -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
 </a>
 &nbsp;
 <!-- Additional Tools -->
 <a href="https://appwrite.io" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://redis.io" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
 </a>
 
 <!-- Styling & Visualization -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
 </a>
 
 <!-- Systems -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="140" height="140" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
 </a>
 
 </div>
