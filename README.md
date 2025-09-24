@@ -115,7 +115,7 @@
 
 - 👯 I’m looking to collaborate on **Software Development using TS**
 
-- 📫 How to reach me **skddeveloper143@gmail.com**
+- 📫 How to reach me **stackmaster@gmail.com**
 
 ## 💼 Professional Snapshot
 
@@ -146,7 +146,7 @@ As an accomplished Full Stack Engineer, I specialize in TypeScript, React, Node.
 
 <div align="center">
   <a href="https://twitter.com/techforgebuild"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:skddeveloper143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:stackmaster@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://leetcode.com/techforgebuild"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Behance&logoColor=white" alt="Portfolio"></a>
 </div>
