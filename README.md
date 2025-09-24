@@ -13,7 +13,7 @@
 
 </div>
 
-## 🛠️ Languages and Tools I use
+## 🛠️ Languages and Tools I Use
 &nbsp;
 <div align="center" style="margin-top: 20px;; margin-bottom: 50px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
 
