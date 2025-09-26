@@ -57,6 +57,10 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
 </a>
 
+<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/shadcnui?viewbox=0%200%2024%2024" alt="shadcn/ui" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
+
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="90" height="90" style="transition: transform 0.2s; filter: brightness(1.2); border-radius: 10px; margin-right: 20px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
 </a>
