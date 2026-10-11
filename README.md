@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Aman Kumar 👋
+Java Backend Developer based in New Delhi. I build and deploy Spring Boot systems end to end, with a focus on concurrency-safe backends and secure auth.
 
-<!--
-**TechFourgeBuild/TechFourgeBuild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured projects
+- **StockXpress** - B2B inventory & warehouse management. Spring Boot 4 + Java 21, PostgreSQL, Docker, deployed on GCP behind Nginx/HTTPS. Dual-token JWT auth, RBAC, optimistic locking + ReentrantLock. JMeter test: 100 concurrent orders against 5 units of stock gave 5 successes, 0 overselling.
+  [Backend](link) · [Frontend](https://stock-xpress-frontend.vercel.app)
+- **BookIt** - Movie ticket booking platform. Spring Boot + MySQL, React 19 + Redux Toolkit, 50 REST endpoints, JWT with httpOnly refresh cookie.
+  [Backend](link) · [Live](https://bms-frontend-snowy.vercel.app)
 
-Here are some ideas to get you started:
+## Tech
+Java 21 · Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL · MySQL · Docker · React · Redux Toolkit · Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach me
+[LinkedIn](https://linkedin.com/in/aman-kumar-java)
